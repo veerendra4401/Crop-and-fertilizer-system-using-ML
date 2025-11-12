@@ -17,3 +17,9 @@ The file `crop.ipynb` is a Jupyter Notebook, typically used for writing and runn
 4. **Applications**:
    - Can be used in projects requiring image manipulation.
    - Useful in preprocessing steps for machine learning pipelines.
+  
+5. _**Certificate**_:
+
+<img width="410" height="584" alt="Aicte Certificate" src="https://github.com/user-attachments/assets/2fbebdef-30c8-4aed-a1f8-e6b3b64ddbf4" />
+
+   
